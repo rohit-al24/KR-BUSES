@@ -1,0 +1,7 @@
+node_modules/
+dist/
+src/
+**/node_modules
+**/dist
+*.log
+*.map

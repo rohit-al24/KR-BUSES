@@ -1,0 +1,6 @@
+{
+  "appId": "com.busbuddy.app",
+  "appName": "Bus Buddy Allocator",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
